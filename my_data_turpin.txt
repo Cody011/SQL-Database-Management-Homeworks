@@ -1,0 +1,4 @@
+Subject	Grades
+68	Math
+92	Finance
+87	Science
